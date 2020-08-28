@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sofia Valero's portfolio
 
 You can use the [editor on GitHub](https://github.com/Sofiavaler0/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
